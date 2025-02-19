@@ -51,3 +51,6 @@ The top-selling products in the supermarket based on total sales.
 The sales trend over time, which helps identify peak sales periods.
 The profit margins for each product, showing which products provide the highest returns.
 
+
+Note: 
+You can modify the project to use other datasets or analyze sales from different supermarkets.
